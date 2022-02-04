@@ -30,3 +30,26 @@ transform: rotate(25deg);
 .icon:hover{
     color:#ff4c68;
 }
+.carousel-item{
+    padding:7% 15%;
+    
+}
+#testimonials{
+    background-color:#ef8172;
+    text-align:center;
+    color:#fff;
+}
+.testimonial-image{
+    width:10%;
+    border-radius:100%;
+    margin:20px;
+}
+.press-logo{
+    width:15%;
+}
+#press{
+    background-color:#ef8172;
+    text-align:center;
+    padding-bottom:3%;
+
+}
