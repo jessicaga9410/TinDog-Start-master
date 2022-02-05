@@ -87,6 +87,12 @@ h1 {
   padding-bottom: 3%;
 }
 /*pricing section */
+.title-name{
+  font-family: "Montserrat", sans-serif;
+}
+.title-price{
+  font-family: "Montserrat", sans-serif;
+}
 #pricing {
   padding: 100px;
   text-align: center;
@@ -103,6 +109,9 @@ h1 {
     transform: rotate(0);
   }
 }
+
+/*CTA section*/
+
 #cta {
   background-color: #ff4c68;
   color: #fff;
